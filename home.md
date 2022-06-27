@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""
+title: "홈"
 ---
 
 {% if site.show_excerpts %}
