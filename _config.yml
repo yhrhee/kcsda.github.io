@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title "홈", icon; home}
   - {file: "README.md", title "우리", icon; about}
-  - {tile: "신앙", file; "faith28.md"}
+  - {title: "신앙", file; "faith28.md"}
   - {title: "방송", file; "tv.md"}
   - {title: "연락", file; "contact.md"}
 
